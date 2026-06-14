@@ -45,3 +45,4 @@ Upon finishing the processing loop, the application generates a 2x2 Matplotlib g
 * **Chart 11 (Red)**: Peak System Saturation Map
 
 The opaqueness (`alpha`) of individual data points shifts according to its calculated likelihood, allowing the user to instantly identify optimal operation zones.
+*The Comments of the code are written in Polish due to the project being highschool assignment
