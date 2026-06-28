@@ -101,7 +101,7 @@ for K_prawdop in prawdopodobienstwo: #wprowadzenie zmiennej iteracyjnej przez wy
         shots = 100000 #ilosc prob na kazdy dowolny punkt,
         #sprawdzajac prawdopodobienstwo wystapienia 00, 01, 10, 11 w kazdym z 361 punktow
 
-        #simulator.run() - to fukcja ktora uruchamia obwod circuit "shots" razy,
+        #simulator.run() - to funkcja ktora uruchamia obwod circuit "shots" razy,
         #i wykonuje symulacje "shots" razy dla kazdego z 361 punktow
         #zapisujemy .result() na koncu zeby fizyczna pamiec Ram miala czas na spokojne przeliczenie
         #wszystkich wartosci, poniewaz jezeli usuniemy to .result() to,
